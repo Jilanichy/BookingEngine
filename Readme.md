@@ -13,8 +13,8 @@
         - password: **admin**
 
   - This app sends JSON/API response of Apartment and Hotel Object.
-  - JSON/API response of contains all the infos connected to it, 'listing_type', 'title', 'country', 'city', 'price'.
-  - Here, returned objects are sorted lowest to highest price.
+  - JSON/API response of the object contains all the infos connected to it, 'listing_type', 'title', 'country', 'city', 'price'.
+  - Here, returned objects are sorted lowest to highest price, that means 'price' in in ascending order.
   - Here, response can be filtered / searched based on filter / search criteria.
 
 
