@@ -18,6 +18,7 @@
   - Here, response can be filtered / searched based on filter / search criteria.
 
 
+
 ### Instructions to run this app on local machine
 
 First, Clone the repository and go to the project folder
@@ -53,6 +54,7 @@ api/v1/units/
 admin/
 api-auth/
 ```
+
 
 ## Request example:
 
