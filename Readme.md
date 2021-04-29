@@ -112,3 +112,12 @@ http://localhost:8000/api/v1/units/?city=Sofia
 ## Response example:
 ![2](https://user-images.githubusercontent.com/32903934/116540216-adc47580-a90b-11eb-9aa9-2816855ef67a.png)
 
+
+
+## Request example:
+
+http://localhost:8000/api/v1/
+
+## Response example:
+![1](https://user-images.githubusercontent.com/32903934/116541746-ac944800-a90d-11eb-8813-dc8aa6103ce7.png)
+
