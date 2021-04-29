@@ -23,7 +23,7 @@
 
 First, Clone the repository and go to the project folder
 ```console
-git clone https://github.com/Jilanichy/movieSearch && cd movieclue
+git clone https://github.com/Jilanichy/BookingEngine && cd BookingEngine
 ```
 Run the app on a virtualenvironment is preferred. To create a virtualenv
  ```console
