@@ -108,3 +108,5 @@ http://localhost:8000/api/v1/units/?max_price=100&check_in=2021-12-09&check_out=
 http://localhost:8000/api/v1/units/?city=Sofia
 
 ## Response example:
+![2](https://user-images.githubusercontent.com/32903934/116540216-adc47580-a90b-11eb-9aa9-2816855ef67a.png)
+
